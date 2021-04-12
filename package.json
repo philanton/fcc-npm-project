@@ -1,8 +1,7 @@
 {
 	"author": "Enthony Phil",
 	"name": "fcc-learn-npm-package-json",
-	"description": "This is my first backend app running on Glitch and made from
-	an fcc sleleton.",
+	"description": "This is my first backend app running on Glitch and made from an fcc sleleton.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
