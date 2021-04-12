@@ -2,6 +2,7 @@
 	"author": "Enthony Phil",
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is my first backend app running on Glitch and made from an fcc sleleton.",
+	"keywords": ["freecodecamp", "fcc", "repo", "glitch", "npm", "backend"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
